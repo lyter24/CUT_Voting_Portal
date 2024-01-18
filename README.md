@@ -5,9 +5,9 @@
 
 ### Create New Account Form 
 
- <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p><br>
+ <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p>
 
-
+<br><br><br><br><br><br>
 ### Dashboard Form 
 #### (After voting, showing overall for the post and number of votes)
 
