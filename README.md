@@ -3,20 +3,23 @@
 ### Login Form 
 <p><img align="left" src="shots/Screenshot (609).png" alt="rishavchanda" /></p>
 
-<br> /
+<br>
+
 ### Create New Account Form 
 
  <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p> 
 
-<br> /
+<br>
+
 ### Dashboard Form 
-### (After voting, showing overall for the post and number of votes)
+(After voting, showing overall for the post and number of votes)
 
  <p><img align="left" src="shots/Screenshot (610).png" alt="Voting_Potal" /></p>
 
-<br> /
+<br> 
+
 ### Candidates General Form 
-### (showing Candidate's contesting messages)
+(showing Candidate's contesting messages)
 
  <p><img align="left" src="shots/Screenshot (611).png" alt="Voting_Potal" /></p>
 
