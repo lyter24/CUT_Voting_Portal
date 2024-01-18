@@ -5,7 +5,7 @@
 
 ### Create New Account Form 
 
- <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p>
+ <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p><br>
 
 
 ### Dashboard Form 
