@@ -1,47 +1,60 @@
-### CUT_Voting_Portal
+## CUT_Voting_Portal
 
-login form
-<p><img align="left" src="shots/Screenshot (601).png" alt="rishavchanda" /></p>
+### Login Form 
+<p><img align="left" src="shots/Screenshot (609).png" alt="rishavchanda" /></p>
 
-login form 
+### Create New Account Form 
 
- <p><img align="left" src="shots/Screenshot (602).png" alt="Voting_Potal" /></p>
-
-
-
-login form 
-
- <p><img align="left" src="shots/Screenshot (603).png" alt="Voting_Potal" /></p>
+ <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p>
 
 
+### Dashboard Form 
+#### (After voting, showing overall for the post and number of votes)
 
-login form 
-
- <p><img align="left" src="shots/Screenshot (604).png" alt="Voting_Potal" /></p>
+ <p><img align="left" src="shots/Screenshot (610).png" alt="Voting_Potal" /></p>
 
 
 
-login form 
+### Candidates General Form 
+#### (showing Candidate's contesting messages)
 
- <p><img align="left" src="shots/Screenshot (605).png" alt="Voting_Potal" /></p>
+ <p><img align="left" src="shots/Screenshot (611).png" alt="Voting_Potal" /></p>
 
 
 
-login form 
+### Candidates List 
+#### (showing Candidate's list with there contesting position and party)
+
+ <p><img align="left" src="shots/Screenshot (612).png" alt="Voting_Potal" /></p>
+
+
+
+### Results Form 
+#### (showing each and every candidate's totals results)
 
  <p><img align="left" src="shots/Screenshot (606).png" alt="Voting_Potal" /></p>
 
 
 
-login form 
+### Election History Form 
+#### (showing each year's elections)
 
  <p><img align="left" src="shots/Screenshot (607).png" alt="Voting_Potal" /></p>
 
 
 
-login form 
+### Voting Form [1]
 
  <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p>
+
+### Voting Form [2]
+
+ <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p>
+
+### Voting Form [3]
+
+ <p><img align="left" src="shots/Screenshot (608).png" alt="Voting_Potal" /></p>
+
 
 
 
